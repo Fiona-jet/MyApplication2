@@ -4,5 +4,8 @@ import android.widget.TextView;
 
 public class ClassOne {
     TextView text;
+    public void sub(){
+
+    }
 
 }
